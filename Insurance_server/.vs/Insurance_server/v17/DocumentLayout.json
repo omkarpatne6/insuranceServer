@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|e:\\ilink_training_tasks\\angular\\insuranceassignment2\\insurance_server\\insurance_server\\models\\insurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|solutionrelative:insurance_server\\models\\insurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|e:\\ilink_training_tasks\\angular\\insuranceassignment2\\insurance_server\\insurance_server\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|solutionrelative:insurance_server\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|e:\\ilink_training_tasks\\angular\\insuranceassignment2\\insurance_server\\insurance_server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|solutionrelative:insurance_server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|e:\\ilink_training_tasks\\angular\\insuranceassignment2\\insurance_server\\insurance_server\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727C5352-D126-474E-A681-18A6E2F0A55F}|Insurance_server\\Insurance_server.csproj|solutionrelative:insurance_server\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsuranceDbContext.cs",
+              "DocumentMoniker": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Models\\InsuranceDbContext.cs",
+              "RelativeDocumentMoniker": "Insurance_server\\Models\\InsuranceDbContext.cs",
+              "ToolTip": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Models\\InsuranceDbContext.cs",
+              "RelativeToolTip": "Insurance_server\\Models\\InsuranceDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:25:56.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Insurance_server\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Insurance_server\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:55:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Insurance_server\\Controllers\\ProfileController.cs",
+              "ToolTip": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Insurance_server\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:52:16.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "Insurance_server\\Controllers\\PolicyController.cs",
+              "ToolTip": "E:\\ilink_training_tasks\\Angular\\InsuranceAssignment2\\Insurance_server\\Insurance_server\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "Insurance_server\\Controllers\\PolicyController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:51:51.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
